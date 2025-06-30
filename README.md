@@ -11,6 +11,7 @@ or This https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif or This https
 -  🤔 I'm looking for a placement in **FAANG** company / Join **ISRO**.
 -  ⚡ Fun Fact: I am doing Two degree (**BS in data science and BE in CSE**)
 -  📫 Contact Me -
+    <br>
     <a href="mailto:srikalgiri@gmail.com">
       <br>
       <img src="https://img.shields.io/badge/Email-srikalgiri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
