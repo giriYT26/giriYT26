@@ -20,6 +20,10 @@ or This https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif or This https
       <br>
       <img src="https://img.shields.io/badge/Discord-S%20Giridharan-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
+    <a href = "https://www.linkedin.com/in/giridharanyt26/">
+      <br>
+      <img src = "https://img.shields.io/badge/LinkedIn-S%20Giridharan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
     
 ## 🛠️ Programing Language and Tools 
 
@@ -38,6 +42,7 @@ or This https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif or This https
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="42" alt="CLion"/>
 </p>
+
 
 
 
