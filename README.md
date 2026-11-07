@@ -1,7 +1,7 @@
 <!--<img src="assets/dev-room.svg" width="100%" alt="Pixel art room with a developer coding in VS Code"/> -->
 <!--## Hi There 👋 It's me S GIRIDHARAN-->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=760&height=50&lines=Hi+There!+I'm+S+Giridharan;CSE+(Cyber+Security)+%2B+BS+Data+Science;Learning.+Building.+Breaking.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=760&height=50&lines=Hi+There!+I'm+S+Giridharan;CSE+(Cyber+Security)+%2B+BS+Data+Science;Learning.+Building.+Breaking.+Repeat." alt="Typing SVG" />
 </a>
 <!-- Either this https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hqemhtdjNmdXlrMzF6ajMyZTY0dWdhcHllMWwzdHNmYnB3NWc0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qek0hd3NUGJPEBvvzK/giphy.gif 
 or This https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif or This https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTEyMnlveDl0dzdjN2NwOWhreWx0ZW54dHd1ZzYweXlzcGx6ejljYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif-
@@ -49,7 +49,16 @@ or This https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif or This https
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="42" alt="Neovim"/>
 </p>
 
+## LeetCode Stats
 
+<a href="https://leetcode.com/u/Giridharan314/">
+  <img src="https://leetcode-stats-giridharan.vercel.app/api/card?sections=profile,solved,skills,languages,heatmap&theme=github-dark-dimmed&transparent=true&border_radius=8" alt="LeetCode Stats" />
+</a>
 
+<br/>
+
+<a href="https://leetcode.com/u/Giridharan314/">
+  <img src="https://img.shields.io/badge/LeetCode-Giridharan314-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+</a>
 
 
