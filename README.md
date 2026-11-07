@@ -1,4 +1,8 @@
-## Hi There 👋 It's me S GIRIDHARAN
+<!--<img src="assets/dev-room.svg" width="100%" alt="Pixel art room with a developer coding in VS Code"/> -->
+<!--## Hi There 👋 It's me S GIRIDHARAN-->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=760&height=50&lines=Hi+There!+I'm+S+Giridharan;CSE+(Cyber+Security)+%2B+BS+Data+Science;Learning.+Building.+Breaking.+Repeat." alt="Typing SVG" />
+</a>
 <!-- Either this https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hqemhtdjNmdXlrMzF6ajMyZTY0dWdhcHllMWwzdHNmYnB3NWc0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qek0hd3NUGJPEBvvzK/giphy.gif 
 or This https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif or This https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTEyMnlveDl0dzdjN2NwOWhreWx0ZW54dHd1ZzYweXlzcGx6ejljYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif-
  or This https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHowcjByZzVsN2ZnZXE2OXVkYTI4MDE1bWU1cnU2bnUwNWNvaXZjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif-->
@@ -31,7 +35,7 @@ or This https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif or This https
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 
 </p>
@@ -41,6 +45,8 @@ or This https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif or This https
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="42" alt="CLion"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="42" alt="Neovim"/>
 </p>
 
 
