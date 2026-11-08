@@ -52,7 +52,7 @@ or This https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif or This https
 ## LeetCode Stats
 
 <a href="https://leetcode.com/u/Giridharan314/">
-  <img src="https://leetcode-stats-giridharan.vercel.app/api/card?sections=profile,solved,skills,languages,heatmap&theme=github-dark-dimmed&transparent=true&border_radius=8" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-giridharan.vercel.app/api/card?sections=profile,solved,contest,skills,languages,heatmap&theme=github-dark-dimmed&transparent=true&border_radius=8" alt="LeetCode Stats" />
 </a>
 
 <br/>
